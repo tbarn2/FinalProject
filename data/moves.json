@@ -72,7 +72,7 @@
     "style": "Hip-Hop",
     "description": "Popping and locking is a basic staple of hip hop dancing. This is a largely improvisational dance by its nature, so you have freedom with it. However, some basics are as follows:Alternate how you contract and relax your muscles in the arms, legs and torso. Do so in quick, pop-like motions.Flex the muscles in your arms, legs, or torso (sometimes simultaneously) and grind your shoulders, then pause and remain in place for a specific amount of time, thereby "locking" it. For example, you may opt to bend your arms at your elbows, holding your hands in the air. Lock it.Count to three (or other designated time) to the music, then pop into another position, locking it again.",
     "description-url": "http://dance.lovetoknow.com/Hip_Hop_Dance_Moves",
-    "video": https://www.youtube.com/watch?v=Xej9jh5ct88""
+    "video": "https://www.youtube.com/watch?v=Xej9jh5ct88"
   },{
     "id": "whip",
     "name": "The Whip",
@@ -95,26 +95,26 @@
     "description-url": "https://en.wikipedia.org/wiki/Crank_That_(Soulja_Boy)",
     "video": "https://www.youtube.com/watch?v=l9vLYEkMTc4"
   },{
-    "id": ,
-    "name": ,
-    "style": ,
-    "description": ,
-    "description-url": ,
-    "video":
+    "id": "charleston",
+    "name": "The Charleston",
+    "style": "Swing",
+    "description": "The Charleston is a dance named for the harbor city of Charleston, South Carolina. The rhythm was popularized in mainstream dance music in the United States by a 1923 tune called 'The Charleston' by composer/pianist James P. Johnson which originated in the Broadway show Runnin' Wild and became one of the most popular hits of the decade. Runnin' Wild ran from 29 October 1923 through 28 June 1924. The peak year for the Charleston as a dance by the public was mid-1926 to 1927.",
+    "description-url": "https://en.wikipedia.org/wiki/Charleston_(dance)",
+    "video": "https://www.youtube.com/watch?v=fQSY-2VtBvg"
   },{
-    "id": ,
-    "name": ,
-    "style": ,
-    "description": ,
-    "description-url": ,
-    "video":
+    "id": "shorty-george",
+    "name": "The Shorty George",
+    "style": "Swing",
+    "description": "'Shorty' George Snowden (July 4, 1904 – May 1982) was an American dancer in Harlem during the 1920s and 1930s. He is popularly credited with coining the name 'Lindy Hop' for a popular partner swing dance of the day. He is also often credited with inventing the dance, though this is unsubstantiated and unlikely.",
+    "description-url": "",
+    "video": "https://www.youtube.com/watch?v=fAcBBxrpx-4"
   },{
-    "id": ,
-    "name": ,
-    "style": ,
-    "description": ,
-    "description-url": ,
-    "video":
+    "id": "lindy-hop",
+    "name": "The Lindy Hop",
+    "style": "Swing",
+    "description": "The Lindy hop is an American dance that evolved in Harlem, New York City, in the 1920s and 1930s and originally evolved with the jazz music of that time. It was very popular during the Swing era of the late 1930s and early 1940s. Lindy was a fusion of many dances that preceded it or were popular during its development but is mainly based on jazz, tap, breakaway and Charleston. It is frequently described as a jazz dance and is a member of the swing dance family.",
+    "description-url": "https://en.wikipedia.org/wiki/Lindy_Hop",
+    "video": "https://www.youtube.com/watch?v=LsuE7gfH9_0"
   },{
     "id": ,
     "name": ,
