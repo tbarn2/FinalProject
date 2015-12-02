@@ -1,17 +1,19 @@
 [
   {
-    "id": ,
-    "name": ,
-    "style": ,
-    "description": ,
-    "video":
+    "id": "dougie",
+    "name": "The Dougie",
+    "style": "Hip-Hop",
+    "description": "The dance originated in Dallas, Texas, where it took its name from similar moves performed by 1980s rapper Doug E. Fresh. In 2007, Dallas rapper Lil' Wil triggered the huge movement with his hit 'My Dougie'. Then, a person called C-Smoove who attended Texas Southern University returned home to Southern California and taught the future members of Cali Swag District the dance. Cali Swag District recorded the song 'Teach Me How to Dougie' and filmed the music video in Inglewood, California during the summer of 2009. Subsequently, the video along with the dance went viral on YouTube.",
+    "description-url": "https://en.wikipedia.org/wiki/Dougie",
+    "video": "https://www.youtube.com/watch?v=g-OwDRTPNOQ"
   },
   {
-    "id": ,
-    "name": ,
-    "style": ,
-    "description": ,
-    "video":
+    "id": "jerk",
+    "name": "The Jerk",
+    "style": "Hip-Hop",
+    "description": "Jerkin' or Jerk is a street dance from Los Angeles. Since 2009, jerkin' has gained fans along the West Coast and, as of 2009, was gaining popularity on the East Coast. The dance itself consists of moving your legs in and out called the 'jerk', and doing other moves such as the 'reject', 'dip', and 'pindrop'.",
+    "description-url": "https://en.wikipedia.org/wiki/Jerkin%27",
+    "video": "https://www.youtube.com/watch?v=ZY1jKpNUbqk"
   },
   {
     "id": ,
