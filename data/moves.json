@@ -16,25 +16,28 @@
     "video": "https://www.youtube.com/watch?v=ZY1jKpNUbqk"
   },
   {
-    "id": ,
-    "name": ,
-    "style": ,
-    "description": ,
-    "video":
+    "id": "spongebob",
+    "name": "The SpongeBob",
+    "style": "Hip-Hop",
+    "description": "The spongebob dance first rose to popularity in Baltimore, Maryland, clubs in the 1990's. It's a fun dance move that's easy to do. Despite a popular misconception, the spongebob dance is not related to the character SpongeBob SquarePants. Once you get started with this dance move, you'll realize that, the more you try it, the easier it becomes.",
+    "description-url": "http://dance.lovetoknow.com/Hip_Hop_Dance_Moves",
+    "video": "https://www.youtube.com/watch?v=GImb88LYAgI"
   },
   {
-    "id": ,
-    "name": ,
-    "style": ,
-    "description": ,
-    "video":
+    "id": "bart-simpson",
+    "name": "The Bart Simpson",
+    "style": "Hip-Hop",
+    "description": "Didn't you know a character from The Simpsons had his own dance? Some people called it the TLC -- or 'Creep' dance",
+    "description url": "http://thestir.cafemom.com/being_a_mom/190964/20_dance_moves_that_were",
+    "video": "https://www.youtube.com/watch?v=KX-Nbtnsk1E"
   },
   {
-    "id": ,
-    "name": ,
-    "style": ,
+    "id": "happy-feet",
+    "name": "Happy Feet",
+    "style": "Hip-Hop",
     "description": ,
-    "video":
+    "description-url" ,
+    "video": "https://www.youtube.com/watch?v=S0vC0Yfet-w"
   },
   {
     "id": ,
