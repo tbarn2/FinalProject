@@ -8,6 +8,11 @@ body {
     text-align: center;
 }
 
+#category {
+	background: rgba(72,133,186,1);
+	color: white;
+}
+
 #items img {
 	width: 250px;
 	height: 130px;
