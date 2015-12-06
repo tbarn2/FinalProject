@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<div id = "Top">
 		<link rel= "stylesheet" href= "css/main.css">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 		<link rel="page-icon.png" href="img/page-icon.png">
@@ -12,13 +11,14 @@
 	</head>
 
 	<body>
-		<ul class = "nav">		
+		<ul class = "nav">
 		<img style="-webkit-user-select: none; cursor: zoom-in;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Break_dance.svg/2480px-Break_dance.svg.png" width="100" height="100">
-		<a href="#cafe">View Categories     </a> 
-		<a href="#menu">Post Your Own     </a>
-		<a href="#story">Review Videos     </a>
+			<a href="#cafe">View Categories     </a>
+			<a href="#menu">Post Your Own     </a>
+			<a href="#story">Review Videos     </a>
 
-		<h1>Post a Move!</h1>
+			<h1>Post a Move!</h1>
+		</ul>
 
 		<div id = "filters">
 			<form id="form">
@@ -27,15 +27,15 @@
 	                        <br>
 	                        <br>
 	                    <label for="styles">Dance Style: </label>
-	                <select name="styles">
+	                <select id="styles">
 	                	<option value="volvo">Choose a Dance Style</option>
 					 	<option value="volvo">Hip Hop</option>
 					 	<option value="saab">Break Dancing</option>
 					 	<option value="fiat">Swing</option>
 					 	<option value="audi">Funny</option>
 					</select>
-	    </div>    
-
+				</form>
+	    </div>
 	</body>
 
 	<script src="//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.15/angular-ui-router.min.js"></script>
