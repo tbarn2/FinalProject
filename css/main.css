@@ -13,6 +13,7 @@ h1 {
 }
 .jumbotron {
     background-image: url("../img/danceFloor.jpg");
+    border-bottom: solid whitesmoke 5px;
 }
 .jumbotron > h1 > small {
     color: whitesmoke;
