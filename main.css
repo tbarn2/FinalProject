@@ -7,3 +7,8 @@ body {
     background-color: blue;
     text-align: center;
 }
+
+#items img {
+	width: 250px;
+	height: 130px;
+}
