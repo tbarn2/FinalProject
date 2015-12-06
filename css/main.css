@@ -3,7 +3,33 @@
 body {
     font-family: 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 16px;
-    background-image: url("../img/ginger.jpg");
-    background-color: grey;
+    /*background-image: url("../img/temp.png");*/
+    background-image: url("../img/bg.png");
     text-align: center;
+    color: whitesmoke;
+}
+h1 {
+    text-shadow: black 2px 2px;
+}
+.jumbotron {
+    background-image: url("../img/danceFloor.jpg");
+}
+.jumbotron > h1 > small {
+    color: whitesmoke;
+}
+div.dance {
+    height: 220px;
+    border: double 2px black;
+}
+div.dance > h1 {
+    text-shadow: black 2px 2px;
+}
+div.hip {
+    background-image: url("../img/hip-hop.gif");
+}
+div.break {
+    background-image: url("../img/break.gif");
+}
+div.swing {
+    background-image: url("../img/swing.gif");
 }
