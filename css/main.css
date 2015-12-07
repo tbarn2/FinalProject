@@ -20,7 +20,7 @@ h1 {
 }
 div.dance {
     height: 220px;
-    border: double 2px black;
+    border: groove 2px whitesmoke;
     background-repeat: no-repeat;
 }
 div.dance > h1 {
@@ -40,7 +40,7 @@ div.swing {
 @media screen and (max-width: 992px) {
     div.dance {
         background-image: none;
-        background-color: rgba(192,192,192,0.3);
+        background-color: rgba(192,192,192,0.1);
         border: none;
         border-radius: 5px;
     }
