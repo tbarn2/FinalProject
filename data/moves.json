@@ -53,16 +53,37 @@
   "description-url": "https://en.wikipedia.org/wiki/The_Running_Man_(dance)",
   "video": "https://www.youtube.com/watch?v=iHnoKwWj0Ps"
   },{
+  "id": "toprock",
+  "name": "Toprock",
+  "style": "Breaking",
+  "description": "Toprocking refers to foot movement performed from a standing position, relying on a mix of coordination, flexibility, rhythm, and style.",
+  "description-url": "https://en.wikipedia.org/wiki/Toprock",
+  "video": "https://www.youtube.com/watch?v=7Dp0PHv5mMU"
+  },{
+  "id": "sixstep",
+  "name": "6 Step",
+  "style": "Breaking",
+  "description": "The basic sequence of breaking footwork.  The 6-step is a foundational move in which many sets are structured around.  Dancers use their arms to support their body above the floor while moving their legs in a circle.",
+  "description-url": "https://en.wikipedia.org/wiki/6-step",
+  "video": "https://www.youtube.com/watch?v=zPdQ1gN7Ngo"
+  },{
   "id": "windmill",
   "name": "The Windmill",
-  "style": "Breakdance",
+  "style": "Breaking",
   "description": "The Windmill (or briefly Mill) is a popular b-boying move. The breaker rolls his torso continuously in a circular path on the floor, across the upper chest/shoulders/back, while twirling his legs in a V-shape through the air.",
   "description-url": "https://en.wikipedia.org/wiki/Windmill_(b-boy_move)",
   "video": "https://www.youtube.com/watch?v=O4eTCYWGgTk"
   },{
+  "id": "airchair",
+  "name": "Air Chair",
+  "style": "Breaking",
+  "description": "A type of freeze in which the breaker stabs their elbow into their back and balances on it while keeping their legs in the air.",
+  "description-url": "http://bboy.wikidot.com/",
+  "video": "https://www.youtube.com/watch?v=A8fWRrvAiGQ"
+  },{
   "id": "arm-wave",
   "name": "The Arm Wave",
-  "style": "Breakdance",
+  "style": "Hip-Hop",
   "description": "Waving is an illusionary dance style composed of a series of movements that give the appearance that a wave is traversing through a dancer's body.",
   "description-url": "http://www.hiphoparea.com/breakdance/waving-and-liquid-dancing.html",
   "video": "https://www.youtube.com/watch?v=vB8tLNxahTM"
