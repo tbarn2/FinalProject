@@ -2,21 +2,37 @@
 
 angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap'])
     .config(function($stateProvider) {
-        $stateProvider.
-            state('hip-hop', {
-                url: '/hip-hop',
-                templateUrl: 'partials/categories.html',
+        $stateProvider
+            .state('home', {
+                url: '/', //"root" directory
+                templateUrl: 'partials/home.html',
+            })
+            .state('trending', {
+                url: '/trending',
+                controller: 'DanceCtrl'
+            })
+            .state('explore', {
+                url: '/explore',
+                controller: 'DanceCtrl'
+            })
+            .state('categories', {
+                url: '/categories',
+                controller: 'DanceCtrl'
+            })
+            .state('hip-hop', {
+                url: '/categories/hip-hop',
+                templateUrl: 'partials/hip-hop.html',
                 controller: 'DanceCtrl'
             })
             .state('break', {
-                url: '/break',
-                templateUrl: 'partials/categories.html',
+                url: '/categories/break',
+                templateUrl: 'partials/break.html',
                 controller: 'DanceCtrl'
 
             })
             .state('swing', {
-                url: '/swing',
-                templateUrl: 'partials/categories.html',
+                url: '/categories/swing',
+                templateUrl: 'partials/swing.html',
                 controller: 'DanceCtrl'
             })
             .state('dance', {

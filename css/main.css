@@ -8,10 +8,36 @@ body {
     text-align: center;
     color: whitesmoke;
 }
+nav {
+	position: fixed;
+	width: 100%;
+	z-index: 2;
+	font-size: 16px;
+	text-decoration: none;
+	font-variant: small-caps;
+    background-color: white;
+}
+
+li a {
+	color: black;
+}
+
+a:hover {
+	color: #1abc9c;
+	text-decoration: none;
+}
+
 h1 {
     text-shadow: black 2px 2px;
 }
+
+h4 {
+    color: black;
+}
 .jumbotron {
+    padding-top: 100px;
+	width: 100%;
+    z-index: 1;
     background-image: url("../img/danceFloor.jpg");
     border-bottom: solid whitesmoke 5px;
 }
@@ -27,14 +53,18 @@ div.dance > h1 {
     text-shadow: black 2px 2px;
 }
 div.hip {
-    background-image: url("../img/hip-hop.gif");
+    background-image: url("../img/hiphop.gif");
     background-width : 100%;
 }
 div.break {
-    background-image: url("../img/break.gif");
+    background-image: url("../img/breaking.gif");
 }
 div.swing {
     background-image: url("../img/swing.gif");
+}
+
+#trending, #explore, #categories {
+    padding-top: 50px;
 }
 
 @media screen and (max-width: 992px) {
@@ -52,4 +82,13 @@ div.swing {
         height: 165px;
         border-radius: 5px;
     }
+}
+
+@media screen and (max-width: 768px) {
+    .jumbotron {
+        display: none;
+    }
+    #trending, #explore, #categories {
+        padding-top: 200px;
+    }    
 }
