@@ -1,0 +1,17 @@
+	<div id="breaking">
+		<a name="breaking"></a>
+		<h1>Breaking</h1>
+		<br>
+		<div class="container">
+			<div id="items">
+				<div class="row">
+					<tr ng-repeat="dance in dances | filter: { style: 'Breaking' }">
+						<div class="col-sm-4">
+							<!-- <iframe width="480" height="390" src="{{dance.video}}" frameborder="0" allowfullscreen></iframe> -->
+							<p>{{dance.name}}</p>
+						</div>
+					</tr>
+				</div>
+			</div>
+		</div>
+	</div>
