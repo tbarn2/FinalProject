@@ -123,7 +123,7 @@
     "id": "pop-and-lock",
     "name": "Popping And Locking",
     "style": "Hip-Hop",
-    "description": "Popping and locking is a basic staple of hip hop dancing. This is a largely improvisational dance by its nature, so you have freedom with it. However, some basics are as follows:Alternate how you contract and relax your muscles in the arms, legs and torso. Do so in quick, pop-like motions.Flex the muscles in your arms, legs, or torso (sometimes simultaneously) and grind your shoulders, then pause and remain in place for a specific amount of time, thereby "locking" it. For example, you may opt to bend your arms at your elbows, holding your hands in the air. Lock it.Count to three (or other designated time) to the music, then pop into another position, locking it again.",
+    "description": "Popping and locking is a basic staple of hip hop dancing. This is a largely improvisational dance by its nature, so you have freedom with it. However, some basics are as follows:Alternate how you contract and relax your muscles in the arms, legs and torso. Do so in quick, pop-like motions.Flex the muscles in your arms, legs, or torso (sometimes simultaneously) and grind your shoulders, then pause and remain in place for a specific amount of time, thereby 'locking' it. For example, you may opt to bend your arms at your elbows, holding your hands in the air. Lock it.Count to three (or other designated time) to the music, then pop into another position, locking it again.",
     "description-url": "http://dance.lovetoknow.com/Hip_Hop_Dance_Moves",
     "video": "https://www.youtube.com/watch?v=Xej9jh5ct88"
   },
@@ -176,11 +176,11 @@
     "video": "https://www.youtube.com/watch?v=LsuE7gfH9_0"
   },
   {
-    "id": "",
-    "name": "",
-    "style": "",
-    "description": "",
-    "description-url": "",
-    "video": ""
-  }
+  "id": "",
+  "name": "",
+  "style": "",
+  "description": "",
+  "description-url": "",
+  "video": ""
+}
 ]

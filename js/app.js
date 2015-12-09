@@ -15,23 +15,19 @@ angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap'])
                 url: '/explore',
                 controller: 'DanceCtrl'
             })
-            .state('categories', {
-                url: '/categories',
-                controller: 'DanceCtrl'
-            })
             .state('hip-hop', {
-                url: '/categories/hip-hop',
+                url: '/hip-hop',
                 templateUrl: 'partials/hip-hop.html',
                 controller: 'DanceCtrl'
             })
             .state('break', {
-                url: '/categories/break',
+                url: '/break',
                 templateUrl: 'partials/break.html',
                 controller: 'DanceCtrl'
 
             })
             .state('swing', {
-                url: '/categories/swing',
+                url: '/swing',
                 templateUrl: 'partials/swing.html',
                 controller: 'DanceCtrl'
             })
@@ -47,9 +43,9 @@ angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap'])
         $urlRouterProvider.otherwise('/');
     })
     .controller('DanceCtrl', ['$scope', '$http', function($scope, $http) {
-        // $http.get('data/moves.json').then(function(response) {
+        $http.get('data/moves.json').then(function(response) {
         //     console.log("GETTING JSON")
-        //     $scope.dances = response.data;
+        $scope.dances = response.data;
         //     console.log("GOTJSON")
-        // });
+         });
     }])
