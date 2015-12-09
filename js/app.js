@@ -32,9 +32,9 @@ angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap'])
                 controller: 'DanceCtrl'
             })
             .state('dance', {
-                url: '/{style}/{id}',
+                url: '/dance/{id}',
                 templateUrl:'partials/dance.html',
-                controller: 'DanceCtrl'
+                controller: 'MoveCtrl'
             })
     })
     .config(function($urlRouterProvider){
@@ -48,4 +48,11 @@ angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap'])
         $scope.dances = response.data;
         //     console.log("GOTJSON")
          });
-    }])
+    }]).controller('MoveCtrl', ['$scope', '$http', '$stateParams', '$filter', function($scope, $http, $stateParams, $filter) {
+
+    $http.get('data/moves.json').then(function(response) {
+        $scope.dances = $filter('filter')(response.data, { //filter the array
+            id: $stateParams.id //for items whose id property is targetId
+        }, true)[0]; //save the 0th result
+    });
+}])
