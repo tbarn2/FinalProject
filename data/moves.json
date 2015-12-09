@@ -38,105 +38,144 @@
     "description": "It was basically the Robot breaking and powering down or back up",
     "description-url": "It was basically the Robot breaking and powering down or back up",
     "video": "https://www.youtube.com/watch?v=yx8teFizHAo"
-  },{
+  },
+  {
   "id": "walk-it-out",
   "name": "Walk It Out",
   "style": "Hip-Hop",
   "description": "The walk it out dance originated in DJ Unk's hometown of Atlanta, Ga. It accompanies his song of the same name.",
   "description-url": "http://www.rapbasement.com/hip-hop/dances/walk-it-out",
   "video": "https://www.youtube.com/watch?v=FMmNuvtcEJI"
-  },{
+  },
+  {
   "id": "running-man",
   "name": "The Running Man",
   "style": "Hip-Hop",
   "description": "The Running Man is a street and fad dance that originated in late 1986 early 1987 and was performed most notably by Janet Jackson in the video of her hit 'Rhythm Nation' and subsequently on the Rhythm Nation World Tour and various live performances. It was historical first performed in a Fela Kuti concert called 'Cross Examination' by one of his back-up dancers/ex-wife in Berlin in 1978. Additionally, it was performed by MC Hammer, Bobby Brown, Milli Vanilli, and Vanilla Ice during their live concert shows and music videos, but achieved renewed popularity in the 2000s. It is also used in some forms of the Melbourne Shuffle dance style. It consists of a hopping or sliding step done in such a way at speed to simulate a runner.",
   "description-url": "https://en.wikipedia.org/wiki/The_Running_Man_(dance)",
   "video": "https://www.youtube.com/watch?v=iHnoKwWj0Ps"
-  },{
+  },
+  {
   "id": "toprock",
   "name": "Toprock",
   "style": "Breaking",
   "description": "Toprocking refers to foot movement performed from a standing position, relying on a mix of coordination, flexibility, rhythm, and style.",
   "description-url": "https://en.wikipedia.org/wiki/Toprock",
   "video": "https://www.youtube.com/watch?v=7Dp0PHv5mMU"
-  },{
+  },
+  {
   "id": "sixstep",
   "name": "6 Step",
   "style": "Breaking",
   "description": "The basic sequence of breaking footwork.  The 6-step is a foundational move in which many sets are structured around.  Dancers use their arms to support their body above the floor while moving their legs in a circle.",
   "description-url": "https://en.wikipedia.org/wiki/6-step",
   "video": "https://www.youtube.com/watch?v=zPdQ1gN7Ngo"
-  },{
+  },
+  {
+  "id": "swipes",
+  "name": "Swipes",
+  "style": "Breaking",
+  "description": "A move where the dancer leans back, whips their arms to one side to touch the ground, and with their legs follow closely behind, twists 360 degrees to land on the ground once again.",
+  "description-url": "https://en.wikipedia.org/wiki/Swipe_(b-boy_move)",
+  "video": "https://www.youtube.com/watch?v=tu7GJcqZkfk"
+  }, 
+  {
   "id": "windmill",
   "name": "The Windmill",
   "style": "Breaking",
   "description": "The Windmill (or briefly Mill) is a popular b-boying move. The breaker rolls his torso continuously in a circular path on the floor, across the upper chest/shoulders/back, while twirling his legs in a V-shape through the air.",
   "description-url": "https://en.wikipedia.org/wiki/Windmill_(b-boy_move)",
   "video": "https://www.youtube.com/watch?v=O4eTCYWGgTk"
-  },{
+  },  
+  {
+  "id": "flare",
+  "name": "The Flare",
+  "style": "Breaking",
+  "description": "The flare is an acrobatic move in which the performer alternates balancing the torso between either arm while swinging the legs beneath in continuous circles.",
+  "description-url": "https://en.wikipedia.org/wiki/Flare_(acrobatic_move)",
+  "video": "https://www.youtube.com/watch?v=0icUprLYFcU"
+  },
+  {
+  "id": "turtle",
+  "name": "The Turtle",
+  "style": "Breaking",
+  "description": "A type of freeze in which both arms are bent in front of the chest with the elbows stabbing into either the abs or surrounding area. All the weight is placed onto the hands and the rest of the body is suspended above the ground.",
+  "description-url": "https://en.wikipedia.org/wiki/Freeze_(b-boy_move)",
+  "video": "https://www.youtube.com/watch?v=EVz1F888AXw"
+  },
+  {
   "id": "airchair",
   "name": "Air Chair",
   "style": "Breaking",
   "description": "A type of freeze in which the breaker stabs their elbow into their back and balances on it while keeping their legs in the air.",
   "description-url": "http://bboy.wikidot.com/",
   "video": "https://www.youtube.com/watch?v=A8fWRrvAiGQ"
-  },{
+  },
+  {
   "id": "arm-wave",
   "name": "The Arm Wave",
   "style": "Hip-Hop",
   "description": "Waving is an illusionary dance style composed of a series of movements that give the appearance that a wave is traversing through a dancer's body.",
   "description-url": "http://www.hiphoparea.com/breakdance/waving-and-liquid-dancing.html",
   "video": "https://www.youtube.com/watch?v=vB8tLNxahTM"
-  },{
+  },
+  {
     "id": "pop-and-lock",
     "name": "Popping And Locking",
     "style": "Hip-Hop",
     "description": "Popping and locking is a basic staple of hip hop dancing. This is a largely improvisational dance by its nature, so you have freedom with it. However, some basics are as follows:Alternate how you contract and relax your muscles in the arms, legs and torso. Do so in quick, pop-like motions.Flex the muscles in your arms, legs, or torso (sometimes simultaneously) and grind your shoulders, then pause and remain in place for a specific amount of time, thereby "locking" it. For example, you may opt to bend your arms at your elbows, holding your hands in the air. Lock it.Count to three (or other designated time) to the music, then pop into another position, locking it again.",
     "description-url": "http://dance.lovetoknow.com/Hip_Hop_Dance_Moves",
     "video": "https://www.youtube.com/watch?v=Xej9jh5ct88"
-  },{
+  },
+  {
     "id": "whip",
     "name": "The Whip",
     "style": "Hip-Hop",
     "description": " Bend your knees with your legs shoulder length apart and feet outward. In very subtle front stroke motions, bring your right arm in front of you with your fist clenched. Begin with the right arm each time Silento starts a new verse of The Whip. Rotate arms only when Silento says “whip” multiple times in a row.",
     "description-url": "http://www.ibtimes.com/pulse/watch-me-dance-how-whip-nae-nae-bop-other-moves-summers-viral-song-2011954",
     "video": "https://www.youtube.com/watch?v=tgEgCEx57o8"
-  },{
+  },
+  {
     "id": "nae-nae",
     "name": "Nae Nae",
     "style": "Hip-Hop",
     "description": "Keep you knees bent with your legs shoulder length apart and feet angled outward. Bring your The Whip arm above your head, bent slightly, while you rock your body from side to side, swaying gracefully. Your left arm should be to your side diagonal from your right.",
     "description-url": "http://www.ibtimes.com/pulse/watch-me-dance-how-whip-nae-nae-bop-other-moves-summers-viral-song-2011954",
     "video": "https://www.youtube.com/watch?v=z99ckWc2uq8"
-  },{
+  },
+  {
     "id": "soulja-boy",
     "name": "The Soulja Boy",
     "style": "Hip-Hop",
     "description": "'Crank That (Soulja Boy)' is the debut single by American rapper Soulja Boy.  It served as the lead single from his debut studio album souljaboytellem.com (2007) and accompanies the Soulja Boy dance. The song is recognized by its looping steelpan riff. It caused what has been called 'the biggest dance fad since the [mid-1990s] Macarena', with an instructional YouTube video for the dance surpassing 27 million views by early 2008. 'Crank That (Soulja Boy)' spent seven weeks at number one on the U.S. Billboard Hot 100 in the fall of 2007, and was the number 21 on the Rolling Stone magazine's list of the 100 Best Songs of 2007. The song received a nomination for a Grammy Award for Best Rap Song at the 50th Grammy Awards but lost to Kanye West's song 'Good Life'. On January 6, 2008, it became the first song ever to sell 3 million digital copies in the US. In 2009 it was named the 23rd most successful song of the 2000s on the Billboard Hot 100 Songs of the Decade.It had sold 5,080,000 downloads in the US by February 2014.",
     "description-url": "https://en.wikipedia.org/wiki/Crank_That_(Soulja_Boy)",
     "video": "https://www.youtube.com/watch?v=l9vLYEkMTc4"
-  },{
+  },
+  {
     "id": "charleston",
     "name": "The Charleston",
     "style": "Swing",
     "description": "The Charleston is a dance named for the harbor city of Charleston, South Carolina. The rhythm was popularized in mainstream dance music in the United States by a 1923 tune called 'The Charleston' by composer/pianist James P. Johnson which originated in the Broadway show Runnin' Wild and became one of the most popular hits of the decade. Runnin' Wild ran from 29 October 1923 through 28 June 1924. The peak year for the Charleston as a dance by the public was mid-1926 to 1927.",
     "description-url": "https://en.wikipedia.org/wiki/Charleston_(dance)",
     "video": "https://www.youtube.com/watch?v=fQSY-2VtBvg"
-  },{
+  },
+  {
     "id": "shorty-george",
     "name": "The Shorty George",
     "style": "Swing",
     "description": "'Shorty' George Snowden (July 4, 1904 – May 1982) was an American dancer in Harlem during the 1920s and 1930s. He is popularly credited with coining the name 'Lindy Hop' for a popular partner swing dance of the day. He is also often credited with inventing the dance, though this is unsubstantiated and unlikely.",
     "description-url": "",
     "video": "https://www.youtube.com/watch?v=fAcBBxrpx-4"
-  },{
+  },
+  {
     "id": "lindy-hop",
     "name": "The Lindy Hop",
     "style": "Swing",
     "description": "The Lindy hop is an American dance that evolved in Harlem, New York City, in the 1920s and 1930s and originally evolved with the jazz music of that time. It was very popular during the Swing era of the late 1930s and early 1940s. Lindy was a fusion of many dances that preceded it or were popular during its development but is mainly based on jazz, tap, breakaway and Charleston. It is frequently described as a jazz dance and is a member of the swing dance family.",
     "description-url": "https://en.wikipedia.org/wiki/Lindy_Hop",
     "video": "https://www.youtube.com/watch?v=LsuE7gfH9_0"
-  },{
+  },
+  {
     "id": "",
     "name": "",
     "style": "",

@@ -47,5 +47,9 @@ angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap'])
         $urlRouterProvider.otherwise('/');
     })
     .controller('DanceCtrl', ['$scope', '$http', function($scope, $http) {
-
+        // $http.get('data/moves.json').then(function(response) {
+        //     console.log("GETTING JSON")
+        //     $scope.dances = response.data;
+        //     console.log("GOTJSON")
+        // });
     }])
