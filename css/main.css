@@ -106,6 +106,9 @@ a.nav:hover {
     color: deeppink;
     text-shadow: whitesmoke;
 }
+a.nav:active {
+    color: deeppink;
+}
 
 .jumbotron {
     padding-top: 100px;

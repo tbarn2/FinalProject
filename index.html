@@ -13,13 +13,17 @@
 	</head>
 
 	<body>
-        <nav class="fixed-nav-bar">
-            <ul class="nav nav-tabs nav-justified">
-                <li> <a class="nav" ui-sref="home"> Home </a> </li>
-                <li> <a class="nav" ui-sref="home({'#': 'trending'})"> Trending </a> </li>
-                <li> <a class="nav" ui-sref="home({'#': 'explore'})"> Explore </a> </li>
-                <li> <a class="nav" ui-sref="home({'#': 'categories'})"> Categories </a> </li>
-            </ul>
+        <nav class="navbar navbar-fixed-top navbar-inverse">
+            <div class="container">
+                <div class="collapse navbar-collapse">
+                    <ul class="navbar-nav nav">
+                        <li> <a class="nav" ui-sref="home"> Home </a> </li>
+                        <li> <a class="nav" ui-sref="home({'#': 'trending'})"> Trending </a> </li>
+                        <li> <a class="nav" ui-sref="home({'#': 'explore'})"> Explore </a> </li>
+                        <li> <a class="nav" ui-sref="home({'#': 'categories'})"> Categories </a> </li>
+                    </ul>
+                </div>
+            </div>
         </nav>
         <div class="jumbotron">
             <h1>Bust A Move!<br><small>learning to dance made fast and easy</small></h1>
