@@ -55,4 +55,5 @@ angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap'])
             id: $stateParams.id //for items whose id property is targetId
         }, true)[0]; //save the 0th result
     });
+
 }])

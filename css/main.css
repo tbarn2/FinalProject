@@ -50,7 +50,7 @@ div.jumbotitle {
     background-color: rgba(192,192,192,0.8);
 }
 a:hover {
-	color: #1abc9c;
+    color: deeppink;
 	text-decoration: none;
     /*Glow*/
     text-shadow: 0 0 1px #ffffff,
@@ -96,10 +96,15 @@ a:visited {
 
 /* selected link */
 a:active {
-    color: white;
+    color: deeppink;
 }
 a.nav {
+    color: whitesmoke;
+    text-shadow: deeppink;
+}
+a.nav:hover {
     color: deeppink;
+    text-shadow: whitesmoke;
 }
 
 .jumbotron {
@@ -107,13 +112,10 @@ a.nav {
 	width: 100%;
     z-index: 1;
     background-image: url("../img/jumbotronbg.png");
-    border-bottom: solid whitesmoke 5px;
+    border-bottom: groove deeppink 5px;
     color: deeppink;
 }
-.jumbotron > h1 {
 
-
-}
 /*Webkit prefix*/
 @-webkit-keyframes neonAnimation {
     from {
@@ -245,4 +247,9 @@ div.swing {
     #trending, #explore, #categories {
         padding-top: 200px;
     }    
+}
+
+img.gif {
+    border: solid 2px deeppink;
+    border-radius: 5px;
 }
