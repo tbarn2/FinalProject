@@ -16,21 +16,17 @@ body {
 
 }
 h1,h2,h3,h4 {
-    margin:20px 0 20px 0;
-    color:#ffffff;
+    margin: 20px 0 20px 0;
+    color: #ffffff;
     /*Glow*/
     text-shadow: 0 0 10px #ffffff,
-    0 0 20px  #ffffff,
-    0 0 30px  #ffffff,
-    0 0 40px  #228DFF,
-    0 0 70px  #228DFF,
-    0 0 80px  #228DFF,
+    0 0 20px #ffffff,
+    0 0 30px #ffffff,
+    0 0 40px #228DFF,
+    0 0 70px #228DFF,
+    0 0 80px #228DFF,
     0 0 100px #228DFF,
     0 0 150px #228DFF;
-    /*Animation*/
-    -webkit-animation: neonAnimation 1.5s ease-in-out infinite alternate;
-    -moz-animation: neonAnimation 1.5s ease-in-out infinite alternate;
-    animation: neonAnimation 1.5s ease-in-out infinite alternate;
 }
 nav {
 	position: fixed;
@@ -65,10 +61,6 @@ a:hover {
     0 0 80px  #228DFF,
     0 0 100px #228DFF,
     0 0 150px #228DFF;
-    /*Animation*/
-    -webkit-animation: neonAnimation 1.5s ease-in-out infinite alternate;
-    -moz-animation: neonAnimation 1.5s ease-in-out infinite alternate;
-    animation: neonAnimation 1.5s ease-in-out infinite alternate;
 }
 a:link {
     color: white;
@@ -82,10 +74,6 @@ a:link {
     0 0 80px  #228DFF,
     0 0 100px #228DFF,
     0 0 150px #228DFF;
-    /*Animation*/
-    -webkit-animation: neonAnimation 1.5s ease-in-out infinite alternate;
-    -moz-animation: neonAnimation 1.5s ease-in-out infinite alternate;
-    animation: neonAnimation 1.5s ease-in-out infinite alternate;
 }
 
 /* visited link */
@@ -101,10 +89,6 @@ a:visited {
     0 0 80px  #228DFF,
     0 0 100px #228DFF,
     0 0 150px #228DFF;
-    /*Animation*/
-    -webkit-animation: neonAnimation 1.5s ease-in-out infinite alternate;
-    -moz-animation: neonAnimation 1.5s ease-in-out infinite alternate;
-    animation: neonAnimation 1.5s ease-in-out infinite alternate;
 }
 
 /* mouse over link */
@@ -215,21 +199,14 @@ a.nav {
     0 0 80px  #228DFF,
     0 0 100px #228DFF,
     0 0 150px #228DFF;
-    /*Animation*/
-    -webkit-animation: neonAnimation 1.5s ease-in-out infinite alternate;
-    -moz-animation: neonAnimation 1.5s ease-in-out infinite alternate;
-    animation: neonAnimation 1.5s ease-in-out infinite alternate;
 }
 div.dance {
     height: 220px;
     border: groove 2px whitesmoke;
     background-repeat: no-repeat;
 }
-div.dance > h1 {
-    text-shadow: black 2px 2px;
-}
 div.hip {
-    background-image: url("../img/hiphop.gif");
+    background-image: url("../img/hip-hop.gif");
     background-width : 100%;
 }
 div.break {
@@ -246,17 +223,18 @@ div.swing {
 @media screen and (max-width: 992px) {
     div.dance {
         background-image: none;
-        background-color: rgba(192,192,192,0.1);
         border: none;
         border-radius: 5px;
     }
     div.dance > h1 {
         vertical-align: middle;
+
     }
     .invisible {
         visibility: visible;
         height: 165px;
         border-radius: 5px;
+        height: 175px;
     }
 }
 
