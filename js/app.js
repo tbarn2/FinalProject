@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap'])
+angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap', 'youtube-embed'])
     .config(function($stateProvider) {
         $stateProvider
             .state('home', {
