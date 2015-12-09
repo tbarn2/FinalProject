@@ -207,8 +207,11 @@ a.nav:active {
 }
 div.dance {
     height: 220px;
-    border: groove 2px whitesmoke;
     background-repeat: no-repeat;
+    border-radius: 3px;
+    box-shadow: -2px 2px deeppink;
+    border-top: solid 2px #228DFF;
+    border-right: solid 2px #228DFF;
 }
 div.hip {
     background-image: url("../img/hip-hop.gif");
@@ -221,7 +224,7 @@ div.swing {
     background-image: url("../img/swing.gif");
 }
 
-#trending, #explore, #categories {
+#trending, #explore {
     padding-top: 50px;
 }
 
@@ -247,7 +250,7 @@ div.swing {
     .jumbotron {
         display: none;
     }
-    #trending, #explore, #categories {
+    #trending, #explore {
         padding-top: 200px;
     }    
 }
@@ -255,4 +258,21 @@ div.swing {
 img.gif {
     border: solid 2px deeppink;
     border-radius: 5px;
+}
+footer {
+    padding: 15px;
+    text-align: right;
+    border-top: groove 2px deeppink;
+}
+img.footer {
+    right-margin: 5px;
+    box-shawdow: 0 2 10px #ffffff,
+    0 2 20px  #ffffff,
+    0 2 30px  #ffffff,
+    0 2 40px  #228DFF,
+    0 2 70px  #228DFF,
+    0 2 80px  #228DFF,
+    0 2 100px #228DFF,
+    0 2 150px #228DFF;
+    height: 40px;
 }
