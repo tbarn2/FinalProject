@@ -44,10 +44,7 @@ angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap', 'youtube
     })
     .controller('DanceCtrl', ['$scope', '$http', function($scope, $http) {
         $http.get('data/moves.json').then(function(response) {
-        //     console.log("GETTING JSON")
-        $scope.dances = response.data;
-        //     console.log("GOTJSON")
-
+            $scope.dances = response.data;
          });
     }]).controller('MoveCtrl', ['$scope', '$http', '$stateParams', '$filter', function($scope, $http, $stateParams, $filter) {
 
