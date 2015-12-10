@@ -4,6 +4,8 @@
         <h1>{{dances.name}}</h1>
         <p>{{dances.description}}</p>
         <p><a href="{{dances.video}}">Here</a> is an instructional video</p>
-        <youtube-video video-url="dances.video"></youtube-video>
+        <div class="embed-responsive embed-responsive-16by9">
+            <youtube-video class="embed-responsive-item" video-url="dances.video"></youtube-video>
+        </div>
     </div>
 </div>

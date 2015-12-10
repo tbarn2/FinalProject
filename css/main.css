@@ -261,6 +261,10 @@ div.swing {
 }
 
 @media screen and (max-width: 992px) {
+    youtube-video {
+        player-width: 75%;
+    }
+
     nav.navbar {
         visibility: hidden;
     }
@@ -287,9 +291,15 @@ div.swing {
         border: none;
         box-shadow: none;
     }
+    img.gif {
+        width: 75%;
+    }
 }
 
 @media screen and (max-width: 768px) {
+    youtube-video {
+        width: 75%
+    }
     nav.navbar {
         visibility: hidden;
     }
