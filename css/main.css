@@ -55,6 +55,9 @@ div.jumbotitle {
 a {
     color: whitesmoke;
 }
+div.backlink {
+    text-align: left;
+}
 ul {
     list-style-type: none;
     padding-left: 0;

@@ -20,8 +20,8 @@ angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap', 'youtube
                 templateUrl: 'partials/hip-hop.html',
                 controller: 'DanceCtrl'
             })
-            .state('break', {
-                url: '/break',
+            .state('breaking', {
+                url: '/breaking',
                 templateUrl: 'partials/break.html',
                 controller: 'DanceCtrl'
 
@@ -57,3 +57,4 @@ angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap', 'youtube
     });
 
 }])
+

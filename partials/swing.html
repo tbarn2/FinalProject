@@ -6,7 +6,7 @@
 		<div class="container">
 			<div id="items" controller="DanceCtrl">
 				<div class="row">
-					<div class="table-striped" ng-repeat="dance in dances | filter: { style: 'Swing' }">
+					<div class="table-striped" ng-repeat="dance in dances | filter: { style: 'swing' }">
 						<br>
 						<!-- <iframe width="480" height="390" src="{{dance.video}}" frameborder="0" allowfullscreen></iframe> -->
 						<a ui-sref="dance({id: '{{dance.id}}'})"><p>{{dance.name}}</p></a>
