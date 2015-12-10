@@ -40,6 +40,14 @@
     "video": "https://www.youtube.com/watch?v=An-DAcHHY-A"
   },
   {
+    "id": "stanky-leg",
+    "name": "The Stanky Leg",
+    "style": "hip-hop",
+    "description": "The Stanky Legg is a multi-step dance that mainly involves the movement of the dancer's leg being moved in a circular motion, then alternating to the opposite leg",
+    "description-url": "https://en.wikipedia.org/wiki/Stanky_Legg",
+    "video": "https://www.youtube.com/watch?v=RiSrd9i2PCw"
+  },
+  {
     "id": "spongebob",
     "name": "The SpongeBob",
     "style": "hip-hop",
@@ -78,6 +86,14 @@
   "description": "The Running Man is a street and fad dance that originated in late 1986 early 1987 and was performed most notably by Janet Jackson in the video of her hit 'Rhythm Nation' and subsequently on the Rhythm Nation World Tour and various live performances. It was historical first performed in a Fela Kuti concert called 'Cross Examination' by one of his back-up dancers/ex-wife in Berlin in 1978. Additionally, it was performed by MC Hammer, Bobby Brown, Milli Vanilli, and Vanilla Ice during their live concert shows and music videos, but achieved renewed popularity in the 2000s. It is also used in some forms of the Melbourne Shuffle dance style. It consists of a hopping or sliding step done in such a way at speed to simulate a runner.",
   "description-url": "https://en.wikipedia.org/wiki/The_Running_Man_(dance)",
   "video": "https://www.youtube.com/watch?v=iHnoKwWj0Ps"
+  },
+  {
+  "id": "shmurda",
+  "name": "Shmurda",
+  "style": "hip-hop",
+  "description": " The Shmoney dance was popularized by New York rapper Bobby Shmurda in his song 'Hot N*gga'. According to Bobby Shmurda, he and associates normally do the dance after getting money though illegal activities.",
+  "description-url": "http://www.hipwiki.com/Shmoney+Dance",
+  "video": "https://www.youtube.com/watch?v=0fes_tKROsY"
   },
   {
   "id": "toprock",
@@ -184,6 +200,14 @@
   "video": "https://www.youtube.com/watch?v=oC1vma8WLUk"
   },
   {
+  "id": "one-handstand",
+  "name": "One Handstand",
+  "style": "breaking",
+  "description": "Balancing on one hand and striking a pose.",
+  "description-url": "http://www.howcast.com/videos/471607-how-to-do-a-handstand-freeze-b-boying/",
+  "video": "https://www.youtube.com/watch?v=pFJuyhuqDZ8"
+  },
+  {
   "id": "turtle",
   "name": "The Turtle",
   "style": "breaking",
@@ -198,6 +222,46 @@
   "description": "A type of freeze in which the breaker stabs their elbow into their back and balances on it while keeping their legs in the air.",
   "description-url": "http://bboy.wikidot.com/",
   "video": "https://www.youtube.com/watch?v=A8fWRrvAiGQ"
+  },
+  {
+  "id": "knee-spin",
+  "name": "The Knee Spin",
+  "style": "breaking",
+  "description": "The knee spin is one of the most recognizable moves in both breakdancing and popping, and might be the slickest way to get up off your stomach ever conceived in dance or martial arts",
+  "description-url": "http://breakdance.wonderhowto.com/how-to/knee-float-your-breakdancing-and-hip-hop-dancing-398185/",
+  "video": "https://www.youtube.com/watch?v=U1fsxipmn1I"
+  },
+  {
+  "id": "head-spin",
+  "name": "The Head Spin",
+  "style": "breaking",
+  "description": "A headspin is an athletic move in which a person balances on their head while rotating along the vertical axis of their body, usually without any other form of support.",
+  "description-url": "https://en.wikipedia.org/wiki/Headspin",
+  "video": "https://www.youtube.com/watch?v=BWgz8xIBn74"
+  },
+  {
+  "id": "moonwalk",
+  "name": "The Moonwalk",
+  "style": "breaking",
+  "description": "The moonwalk (also known as the Glide by inner-city youth) is a dance move in which the dancer moves backwards while appearing to be making the physical movement of walking forwards.",
+  "description-url": "https://en.wikipedia.org/wiki/Moonwalk_(dance)",
+  "video": "https://www.youtube.com/watch?v=H_QbxIDUDOs"
+  },
+  {
+  "id": "crab-walk",
+  "name": "The Crab Walk",
+  "style": "breaking",
+  "description": "The float (crabwalk) is a b-boying move in which the body is held parallel to the floor while balancing on one or both hands. Though it appears to demand great strength, the float actually requires balance above all because the breaker's weight is supported on the elbows which are firmly planted (stabbed) into the lower abdomen near the ASIS.",
+  "description-url": "https://en.wikipedia.org/wiki/Float_(b-boy_move)",
+  "video": "https://www.youtube.com/watch?v=b4UsFtLAsb4"
+  },
+  {
+  "id": "backflip",
+  "name": "The Backflip",
+  "style": "breaking",
+  "description": "Also known as a back tuck, a somi, or a salto, a back flip is one of the most impressive and easily recognizable skills in gymnastics.",
+  "description-url": "http://www.wikihow.com/Do-a-Backflip",
+  "video": "https://www.youtube.com/watch?v=cxdHbunEANc"
   },
   {
   "id": "arm-wave",
