@@ -268,9 +268,13 @@ div.jumbotron {
     0 0 100px #228DFF,
     0 0 150px #228DFF;
 }
-
 #trending, #explore {
     padding-top: 50px;
+}
+@media screen and (max-width: 1200px) {
+    img.dance {
+        width: 300px;
+    }
 }
 
 @media screen and (max-width: 992px) {
