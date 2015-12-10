@@ -3,10 +3,15 @@
 		<img src="./img/swing.gif" class="gif">
 		<br>
 		<br>
+		<form>
+			<label for="search"><i class="fa fa-search"></i></label>
+			<input ng-model="query" class="search" name="search" id="search" placeholder="Search">
+		</form>
+		<br>
 		<div class="container">
 			<div id="items" controller="DanceCtrl">
 				<div class="row">
-					<div class="table-striped" ng-repeat="dance in dances | filter: { style: 'swing' }">
+					<div class="table-striped" ng-repeat="dance in dances | filter: { style: 'swing' } | filter:query">
 						<br>
 						<!-- <iframe width="480" height="390" src="{{dance.video}}" frameborder="0" allowfullscreen></iframe> -->
 						<a ui-sref="dance({id: '{{dance.id}}'})"><p>{{dance.name}}</p></a>
