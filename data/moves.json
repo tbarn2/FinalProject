@@ -8,12 +8,36 @@
     "video": "https://www.youtube.com/watch?v=g-OwDRTPNOQ"
   },
   {
+    "id": "quan",
+    "name": "The Quan",
+    "style": "hip-hop",
+    "description": "Hit the Quan is the debut single by American rapper ILoveMemphis. This is a dance that was first made by American rapper Rich Homie Quan. It peaked at number 15 on the Billboard Hot 100.",
+    "description-url": "https://en.wikipedia.org/wiki/Hit_the_Quan",
+    "video": "https://www.youtube.com/watch?v=Cfn1sO7fCFQ"
+  },
+  {
     "id": "jerk",
     "name": "The Jerk",
     "style": "hip-hop",
     "description": "Jerkin' or Jerk is a street dance from Los Angeles. Since 2009, jerkin' has gained fans along the West Coast and, as of 2009, was gaining popularity on the East Coast. The dance itself consists of moving your legs in and out called the 'jerk', and doing other moves such as the 'reject', 'dip', and 'pindrop'.",
     "description-url": "https://en.wikipedia.org/wiki/Jerkin%27",
     "video": "https://www.youtube.com/watch?v=ZY1jKpNUbqk"
+  },
+  {
+    "id": "bernie",
+    "name": "The Bernie",
+    "style": "hip-hop",
+    "description": "The Bernie Dance is a dance style performed by leaning one’s head back and wobbling with loosely held arms.",
+    "description-url": "http://www.rapbasement.com/hip-hop/dances/bernie-dance",
+    "video": "https://www.youtube.com/watch?v=vQ3RaZYGf9U"
+  },
+  {
+    "id": "cat-daddy",
+    "name": "The Cat Daddy",
+    "style": "hip-hop",
+    "description": "Cat Daddy is a 2011 song by American Hip hop group The Rej3ctz. It is based on a dance of the same name and is from the 2010 mixtape TheFUNKtion vs theKICKback.",
+    "description-url": "https://en.wikipedia.org/wiki/Cat_Daddy",
+    "video": "https://www.youtube.com/watch?v=An-DAcHHY-A"
   },
   {
     "id": "spongebob",
@@ -96,6 +120,70 @@
   "video": "https://www.youtube.com/watch?v=0icUprLYFcU"
   },
   {
+  "id": "cartwheel",
+  "name": "The Cartwheel",
+  "style": "breaking",
+  "description": "It's a great move for beginner bboys to practice, because slowing it down is the key to a one-handed handstand (and its freezes).",
+  "description-url": "http://www.break-dancing.net/how-to-do-a-cartwheel.html",
+  "video": "https://www.youtube.com/watch?v=ypts5pJoM88"
+  },
+  {
+  "id": "worm",
+  "name": "The Worm",
+  "style": "breaking",
+  "description": "The worm is a really easy break dancing move that fits well into a routine and gives it an old school feel.",
+  "description-url": "https://www.youtube.com/watch?v=Y8mmBGWv9iM",
+  "video": "https://www.youtube.com/watch?v=ypts5pJoM88"
+  },
+  {
+  "id": "headstand-freeze",
+  "name": "The Headstand Freeze",
+  "style": "breaking",
+  "description": "A headstand freeze is a relatively easy break dancing move because you have the option of having both of your hands on the ground if you're not comfortable with only one hand or no hands.",
+  "description-url": "http://www.break-dancing.net/headstand.html",
+  "video": "https://www.youtube.com/watch?v=qeRNEfxmu5w"
+  },
+  {
+  "id": "backspin",
+  "name": "The Backspin",
+  "style": "breaking",
+  "description": "The backspin is an easy break dancing move that anybody can do. That doesn’t mean that everybody can do it well, though.",
+  "description-url": "http://www.break-dancing.net/backspin.html",
+  "video": "https://www.youtube.com/watch?v=tzQ2NgZyiXg"
+  },
+  {
+  "id": "kip-up",
+  "name": "The Kip Up",
+  "style": "breaking",
+  "description": "The kip up is a popular move that gets you on your feet from a lying down on your back position.",
+  "description-url": "http://www.break-dancing.net/kip-up.html",
+  "video": "https://www.youtube.com/watch?v=-VPxIzh8474"
+  },
+  {
+  "id": "helicopter",
+  "name": "The Helicopter",
+  "style": "breaking",
+  "description": "The helicopter (or coffee grinder) is another footwork move that blends in nicely with almost anything else that you might be doing on the ground. This break dancing move is relatively easy, but getting it down with both legs and in both directions (forward and backward) can be a bit more difficult.",
+  "description-url": "http://www.break-dancing.net/helicopter.html",
+  "video": "https://www.youtube.com/watch?v=uYFb2CNbBNA"
+  },
+  {
+  "id": "three-step",
+  "name": "3 Step",
+  "style": "breaking",
+  "description": "The three step is a relatively easy bboy move, that is a bit tougher than a six step.",
+  "description-url": "http://www.break-dancing.net/three-step.html",
+  "video": "https://www.youtube.com/watch?v=hLM6Hj0jQ-4"
+  },
+  {
+  "id": "bicycle-pump",
+  "name": "Bicycle Pump",
+  "style": "breaking",
+  "description": "The bicycle pump is an extremely easy break dancing move that adds variety to your downrock.",
+  "description-url": "http://www.break-dancing.net/bicycle-pump.html",
+  "video": "https://www.youtube.com/watch?v=oC1vma8WLUk"
+  },
+  {
   "id": "turtle",
   "name": "The Turtle",
   "style": "breaking",
@@ -166,6 +254,30 @@
     "description": "'Shorty' George Snowden (July 4, 1904 – May 1982) was an American dancer in Harlem during the 1920s and 1930s. He is popularly credited with coining the name 'Lindy Hop' for a popular partner swing dance of the day. He is also often credited with inventing the dance, though this is unsubstantiated and unlikely.",
     "description-url": "",
     "video": "https://www.youtube.com/watch?v=fAcBBxrpx-4"
+  },
+  {
+    "id": "street-swing",
+    "name": "Street Swing",
+    "style": "swing",
+    "description": "Four Count Swing first appeared in the 1950s as a minor variation among teenagers on American Bandstand. In the 1970s, it became a popular basic step in Disco.",
+    "description-url": "http://www.libraryofdance.org/dances/swing/#four-count",
+    "video": "https://www.youtube.com/watch?v=ccL3dUlksgI"
+  },
+  {
+    "id": "jitterbug",
+    "name": "Jitterbug",
+    "style": "swing",
+    "description": "Six Count Swing appeared alongside Early Lindy Hop in the late 1920s.",
+    "description-url": "http://www.libraryofdance.org/dances/swing/#four-count",
+    "video": "https://www.youtube.com/watch?v=MxJ49oM-QLs"
+  },
+  {
+    "id": "six-count-lindy",
+    "name": "Six Count Lindy",
+    "style": "swing",
+    "description": "Triple Step Swing appeared in the 1930s alongside triple step Lindy Hop.",
+    "description-url": "http://www.libraryofdance.org/dances/swing/#four-count",
+    "video": "https://www.youtube.com/watch?v=j5I_Ke4oB9w"
   },
   {
     "id": "lindy-hop",
