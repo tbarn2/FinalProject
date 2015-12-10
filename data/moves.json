@@ -280,6 +280,38 @@
     "video": "https://www.youtube.com/watch?v=j5I_Ke4oB9w"
   },
   {
+    "id": "pretzel",
+    "name": "The Pretzel",
+    "style": "swing",
+    "description": "This how to video demonstrates the pretzel swing dance move. This popular step is fun and easy to learn. Watch this tutorial and you'll be swing dancing the pretzel in no time.",
+    "description-url": "http://swing-dancing.wonderhowto.com/how-to/do-pretzel-swing-dance-move-223849/",
+    "video": "https://www.youtube.com/watch?v=tOqEYQYeUcY"
+  },
+  {
+    "id": "aerial-jumps",
+    "name": "The Aerial Jump",
+    "style": "swing",
+    "description": "Learn how to do the Frog Jump, the Knickerbocker, the Pancake and the Hat Trick. Aerials should not be done on a social dance floor and only with partner consent. Be careful when doing these moves.",
+    "description-url": "http://swing-dancing.wonderhowto.com/how-to/do-swing-dance-aerial-jumps-223794/",
+    "video": "https://www.youtube.com/watch?v=oti1qOLWPUk"
+  },
+  {
+    "id": "hatchback",
+    "name": "The Hatchback",
+    "style": "swing",
+    "description": "Learn the Hatchback First jive dancing steps in swing dance. Start off man's right hand to ladies right hand. This is a modern jive dance move from Dance Yourself Dizzy.",
+    "description-url": "http://swing-dancing.wonderhowto.com/how-to/dance-hatchback-beginners-modern-jive-move-270744/",
+    "video": "https://www.youtube.com/watch?v=RLvfS6BDetA"
+  },
+  {
+    "id": "yoyo",
+    "name": "The Yoyo",
+    "style": "swing",
+    "description": "I use momentum and she comes and goes like a yo-yo. What happens then the ending which is where I ravel her in and with this hand I scoot her down I continue having her spin in the same direction.",
+    "description-url": "http://www.ehow.com/video_4396220_do-yoyo-cork-screw-swing.html",
+    "video": "https://www.youtube.com/watch?v=3eJfyGCXZHI"
+  },
+  {
     "id": "lindy-hop",
     "name": "The Lindy Hop",
     "style": "swing",
