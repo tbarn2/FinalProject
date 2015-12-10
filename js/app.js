@@ -47,6 +47,7 @@ angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap', 'youtube
         //     console.log("GETTING JSON")
         $scope.dances = response.data;
         //     console.log("GOTJSON")
+
          });
     }]).controller('MoveCtrl', ['$scope', '$http', '$stateParams', '$filter', function($scope, $http, $stateParams, $filter) {
 
@@ -56,5 +57,7 @@ angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap', 'youtube
         }, true)[0]; //save the 0th result
     });
 
-}])
+}]);
+
+
 
