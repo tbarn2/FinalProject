@@ -312,6 +312,46 @@
     "video": "https://www.youtube.com/watch?v=3eJfyGCXZHI"
   },
   {
+    "id": "wurlitzer",
+    "name": "The Wurlitzer",
+    "style": "swing",
+    "description": "The Wurlitzer move starts off man's left hand to ladies right hand. This is another Modern Jive dance moves from DanceYourselfDizzy.com It is a beginner move in modern jive swing dancing.",
+    "description-url": "http://swing-dancing.wonderhowto.com/how-to/dance-wurlitzer-beginners-modern-jive-dance-move-270742/",
+    "video": "https://www.youtube.com/watch?v=dtiekR92UYM"
+  },
+  {
+    "id": "tuck-turns",
+    "name": "The Tuck Turns",
+    "style": "swing",
+    "description": "This how to video demonstrates the tuck turns swing dance move. This popular step is fun and easy to learn. Watch this tutorial and you'll be swing dancing the tuck turns in no time.",
+    "description-url": "http://swing-dancing.wonderhowto.com/how-to/do-tuck-turns-swing-dance-moves-223816/",
+    "video": "https://www.youtube.com/watch?v=gv2pmb2xnrQ"
+  },
+  {
+    "id": "push-break",
+    "name": "The Push Break",
+    "style": "swing",
+    "description": "Swing dancing dates back to the 1920's, where the African American community, discovered the Charleston and the Lindy Hop, while dancing to contemporary Jazz music.",
+    "description-url": "http://swing-dancing.wonderhowto.com/how-to/do-push-break-swing-dance-move-223837/",
+    "video": "https://www.youtube.com/watch?v=1u9eeMPb5oM"
+  },
+  {
+    "id": "outside-turn",
+    "name": "The Outside Turn",
+    "style": "swing",
+    "description": "The term Swing dancing is used to refer to one or all of the following swing era dances: Lindy Hop, Charleston, Shag, Balboa and Blues and extends to include West Coast Swing, East Coast Swing, Hand Dancing, Jive, Rock and Roll, Modern Jive, and other dances developing in the 1940s and later.",
+    "description-url": "http://swing-dancing.wonderhowto.com/how-to/do-outside-turn-with-spin-break-swing-dance-move-223805/",
+    "video": "https://www.youtube.com/watch?v=KUqn7c_nEHY"
+  },
+   {
+    "id": "swivel-break",
+    "name": "The Swivel Break",
+    "style": "swing",
+    "description": "From 1919 to 1927, the Swivel Break was a popular swing dance developed from the Texas Tommy and Charleston in Harlem's African American communities.",
+    "description-url": "http://swing-dancing.wonderhowto.com/how-to/do-swivel-break-swing-dance-move-223850/",
+    "video": "https://www.youtube.com/watch?v=cocJ012HZjw"
+  },
+  {
     "id": "lindy-hop",
     "name": "The Lindy Hop",
     "style": "swing",
