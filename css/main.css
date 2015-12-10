@@ -28,7 +28,7 @@ h1,h2,h3,h4 {
     0 0 100px #228DFF,
     0 0 150px #228DFF;
 }
-nav {
+nav.navbar {
 	position: fixed;
 	width: 100%;
 	z-index: 2;
@@ -41,13 +41,33 @@ nav {
     radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
     radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
     background-color:#282828;
-    background-size:16px 16px;}
+    background-size:16px 16px;
+    visibility: visible;
 
-li a {
-	color: black;
+}
+div#mobile-only {
+    visibility: hidden;
+    display: none;
 }
 div.jumbotitle {
     background-color: rgba(192,192,192,0.8);
+}
+a {
+    color: whitesmoke;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    display: inline;
+    text-shadow: 0 0 10px #ffffff,
+    0 0 20px #ffffff,
+    0 0 30px #ffffff,
+    0 0 40px #228DFF,
+    0 0 70px #228DFF,
+    0 0 80px #228DFF,
+    0 0 100px #228DFF,
+    0 0 150px #228DFF;
 }
 a:hover {
     color: deeppink;
@@ -102,12 +122,24 @@ a.nav {
     color: whitesmoke;
     text-shadow: deeppink;
 }
-a.nav:hover {
+a:hover {
     color: deeppink;
     text-shadow: whitesmoke;
 }
 a.nav:active {
     color: deeppink;
+}
+div#mobile-only > a:link {
+    color: whitesmoke;
+}
+div#mobile-only > a:active {
+    color: whitesmoke;
+}
+div#mobile-only > a:visited {
+    color: whitesmoke;
+}
+div#mobile-only > a:link {
+    color: whitesmoke;
 }
 
 .jumbotron {
@@ -229,6 +261,13 @@ div.swing {
 }
 
 @media screen and (max-width: 992px) {
+    nav.navbar {
+        visibility: hidden;
+    }
+    div#mobile-only {
+        visibility: visible;
+        display: inline;
+    }
     div.dance {
         background-image: none;
         border: none;
@@ -244,15 +283,30 @@ div.swing {
         border-radius: 5px;
         height: 175px;
     }
+    div.dance {
+        border: none;
+        box-shadow: none;
+    }
 }
 
 @media screen and (max-width: 768px) {
+    nav.navbar {
+        visibility: hidden;
+    }
+    div#mobile-only {
+        visibility: visible;
+        display: inline;
+    }
     .jumbotron {
         display: none;
     }
     #trending, #explore {
         padding-top: 200px;
-    }    
+    }
+    div.dance {
+        border: none;
+        box-shadow: none;
+    }
 }
 
 img.gif {
