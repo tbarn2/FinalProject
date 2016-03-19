@@ -19,14 +19,7 @@ h1,h2,h3,h4 {
     margin: 20px 0 20px 0;
     color: #ffffff;
     /*Glow*/
-    text-shadow: 0 0 10px #ffffff,
-    0 0 20px #ffffff,
-    0 0 30px #ffffff,
-    0 0 40px #228DFF,
-    0 0 70px #228DFF,
-    0 0 80px #228DFF,
-    0 0 100px #228DFF,
-    0 0 150px #228DFF;
+    text-shadow: 0 0 10px #ffffff;
 }
 nav.navbar {
 	position: fixed;
@@ -68,14 +61,7 @@ ul {
 }
 li {
     display: inline;
-    text-shadow: 0 0 10px #ffffff,
-    0 0 20px #ffffff,
-    0 0 30px #ffffff,
-    0 0 40px #228DFF,
-    0 0 70px #228DFF,
-    0 0 80px #228DFF,
-    0 0 100px #228DFF,
-    0 0 150px #228DFF;
+    text-shadow: 0 0 10px #ffffff;
 }
 div.category {
     padding-top: 45px;
@@ -94,27 +80,13 @@ a:hover {
     color: deeppink;
 	text-decoration: none;
     /*Glow*/
-    text-shadow: 0 0 1px #ffffff,
-    0 0 20px  #ffffff,
-    0 0 30px  #ffffff,
-    0 0 40px  #228DFF,
-    0 0 70px  #228DFF,
-    0 0 80px  #228DFF,
-    0 0 100px #228DFF,
-    0 0 150px #228DFF;
+    text-shadow: 0 0 1px #ffffff;
 }
 a:link {
     color: white;
     text-decoration: none;
     /*Glow*/
-    text-shadow: 0 0 1px #ffffff,
-    0 0 20px  #ffffff,
-    0 0 30px  #ffffff,
-    0 0 40px  #228DFF,
-    0 0 70px  #228DFF,
-    0 0 80px  #228DFF,
-    0 0 100px #228DFF,
-    0 0 150px #228DFF;
+    text-shadow: 0 0 1px #ffffff;
 }
 
 /* visited link */
@@ -122,14 +94,7 @@ a:visited {
     color: white;
     text-decoration: none;
     /*Glow*/
-    text-shadow: 0 0 1px #ffffff,
-    0 0 20px  #ffffff,
-    0 0 30px  #ffffff,
-    0 0 40px  #228DFF,
-    0 0 70px  #228DFF,
-    0 0 80px  #228DFF,
-    0 0 100px #228DFF,
-    0 0 150px #228DFF;
+    text-shadow: 0 0 1px #ffffff;
 }
 
 /* mouse over link */
@@ -182,91 +147,13 @@ div.jumbotron {
     color: deeppink;
 }
 
-/*Webkit prefix*/
-@-webkit-keyframes neonAnimation {
-    from {
-        text-shadow: 0 0 10px #ffffff,
-        0 0 20px  #ffffff,
-        0 0 30px  #ffffff,
-        0 0 40px  #228DFF,
-        0 0 70px  #228DFF,
-        0 0 80px  #228DFF,
-        0 0 100px #228DFF,
-        0 0 150px #228DFF;
-    }
-    to {
-        text-shadow: 0 0 5px #ffffff,
-        0 0 10px #ffffff,
-        0 0 15px #ffffff,
-        0 0 20px #228DFF,
-        0 0 35px #228DFF,
-        0 0 40px #228DFF,
-        0 0 50px #228DFF,
-        0 0 75px #228DFF;
-    }
-}
 
-
-/*Moz prefix*/
-@-moz-keyframes neonAnimation {
-    from {
-        text-shadow: 0 0 10px #ffffff,
-        0 0 20px  #ffffff,
-        0 0 30px  #ffffff,
-        0 0 40px  #228DFF,
-        0 0 70px  #228DFF,
-        0 0 80px  #228DFF,
-        0 0 100px #228DFF,
-        0 0 150px #228DFF;
-    }
-    to {
-        text-shadow: 0 0 5px #ffffff,
-        0 0 10px #ffffff,
-        0 0 15px #ffffff,
-        0 0 20px #228DFF,
-        0 0 35px #228DFF,
-        0 0 40px #228DFF,
-        0 0 50px #228DFF,
-        0 0 75px #228DFF;
-    }
-}
-
-/*No prefix*/
-@keyframes neonAnimation {
-    from {
-        text-shadow: 0 0 10px #ffffff,
-        0 0 20px  #ffffff,
-        0 0 30px  #ffffff,
-        0 0 40px  #228DFF,
-        0 0 70px  #228DFF,
-        0 0 80px  #228DFF,
-        0 0 100px #228DFF,
-        0 0 150px #228DFF;
-    }
-    to {
-        text-shadow: 0 0 5px #ffffff,
-        0 0 10px #ffffff,
-        0 0 15px #ffffff,
-        0 0 20px #228DFF,
-        0 0 35px #228DFF,
-        0 0 40px #228DFF,
-        0 0 50px #228DFF,
-        0 0 75px #228DFF;
-    }
-}
 .jumbotron > h1 > small {
     color: darkturquoise;
     margin:20px 0 20px 0;
     color:#ffffff;
     /*Glow*/
-    text-shadow: 0 0 10px #ffffff,
-    0 0 20px  #ffffff,
-    0 0 30px  #ffffff,
-    0 0 40px  #228DFF,
-    0 0 70px  #228DFF,
-    0 0 80px  #228DFF,
-    0 0 100px #228DFF,
-    0 0 150px #228DFF;
+    text-shadow: 0 0 10px #ffffff;
 }
 #trending, #explore {
     padding-top: 50px;
@@ -321,6 +208,9 @@ div.jumbotron {
         border: none;
         box-shadow: none;
     }
+    img.gif {
+        width: 50px;
+    }
 }
 
 img.gif {
@@ -337,14 +227,7 @@ footer {
 }
 img.footer {
     right-margin: 5px;
-    box-shawdow: 0 2 10px #ffffff,
-    0 2 20px  #ffffff,
-    0 2 30px  #ffffff,
-    0 2 40px  #228DFF,
-    0 2 70px  #228DFF,
-    0 2 80px  #228DFF,
-    0 2 100px #228DFF,
-    0 2 150px #228DFF;
+    box-shawdow: 0 2 10px #ffffff;
     height: 40px;
 }
 

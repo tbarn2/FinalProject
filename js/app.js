@@ -5,7 +5,7 @@ angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap', 'youtube
         $stateProvider
             .state('home', {
                 url: '/', //"root" directory
-                templateUrl: 'partials/home.html',
+                templateUrl: 'partials/home.html'
             })
             .state('trending', {
                 url: '/trending',
@@ -52,7 +52,7 @@ angular.module('DanceApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap', 'youtube
         $scope.dances = $filter('filter')(response.data, { //filter the array
             id: $stateParams.id //for items whose id property is targetId
         }, true)[0]; //save the 0th result
-    });
+    })
 
 }]);
 
