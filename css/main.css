@@ -97,8 +97,6 @@ a:visited {
     text-shadow: 0 0 1px #ffffff;
 }
 
-/* mouse over link */
-
 
 /* selected link */
 a:active {
@@ -208,8 +206,9 @@ div.jumbotron {
         border: none;
         box-shadow: none;
     }
-    img.gif {
-        width: 50px;
+    img.dance {
+        width: 150px;
+        height: auto;
     }
 }
 
